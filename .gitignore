@@ -1,0 +1,7 @@
+# exclude all
+*
+# include only the following
+!/.gitignore
+!/README.md
+!/LICENSE
+!/main.py
